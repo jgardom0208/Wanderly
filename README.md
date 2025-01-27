@@ -4,7 +4,7 @@
 **Wanderly: Explora y Conecta con el Mundo**
 
 ## **b.3. Nombre del autor del proyecto**  
-[Tu Nombre]
+Juan Antonio García Domínguez
 
 ## **b.4. Descripción**  
 Wanderly es una red social diseñada para viajeros y aventureros que desean compartir sus experiencias, inspirarse en otros y planificar nuevas exploraciones. La plataforma permite a los usuarios:  
